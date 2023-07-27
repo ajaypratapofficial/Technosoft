@@ -66,8 +66,8 @@ const Testimonial = () => {
     <>
     <Seo
       title="Techno Soft Hunter About Us"
-      description=""
-      keyboards=""
+      description="Techno Soft Hunter About Us"
+      keyboards="Techno Soft Hunter, Techno Soft About Us"
       author=""
     >
           <div className="awesome">

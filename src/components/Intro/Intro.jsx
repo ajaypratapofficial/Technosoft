@@ -29,8 +29,8 @@ const Intro = () => {
     <>
     <Seo
       title="Techno Soft Hunter"
-      description=""
-      keyboards=""
+      description="Techno Soft Hunter"
+      keyboards="Techno Soft Hunter, Techno Soft Hunter"
       author=""
     >
     {/* <Navbar/> */}

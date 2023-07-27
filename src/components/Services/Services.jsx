@@ -23,8 +23,8 @@ const Services = () => {
   return (
     <Seo
     title="Techno Soft Hunter Services"
-    description=""
-    keyboards=""
+    description="Techno Soft Hunter Services"
+    keyboards="Techno Soft Hunter, Techno Soft Hunter Services"
     author=""
   >
     <div className="services" id="services">

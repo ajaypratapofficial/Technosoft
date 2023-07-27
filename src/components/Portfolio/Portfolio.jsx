@@ -20,9 +20,8 @@ const Portfolio = () => {
   return (
     <>
         <Seo
-      title="Techno Soft Hunter Team"
-      description=""
-      keyboards=""
+      description="Techno Soft Hunter Team"
+      keyboards="Techno Soft Hunter, Techno Soft Hunter Team"
       author=""
     >
     <div className="portfolio" id="portfolio">

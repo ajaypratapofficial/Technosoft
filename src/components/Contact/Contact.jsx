@@ -34,8 +34,8 @@ const Contact = () => {
     <>
     <Seo
       title="Techno Soft Hunter Contact Us"
-      description=""
-      keyboards=""
+      description="Techno Soft Hunter Contact"
+      keyboards="Techno Soft Hunter, Techno Soft Hunter Contact"
       author=""
     >
     <div className="contact-form" id="contact">

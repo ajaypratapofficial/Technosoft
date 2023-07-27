@@ -10,8 +10,8 @@ const Products = () => {
     <>
       <Seo
       title="Techno Soft Hunter Products"
-      description=""
-      keyboards=""
+      description="Techno Soft Hunter Product"
+      keyboards="Techno Soft Hunter, Techno Soft Hunter Product"
       author=""
     >
     <div className="experience" id='experience'>
